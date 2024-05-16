@@ -1,0 +1,1 @@
+curl https://eth-mainnet.g.alchemy.com/v2/iFJL3SFnSnmC03BRrY6GvdN-f7xo6l32 -X POST -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", false],"id":0}'
